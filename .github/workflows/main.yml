@@ -26,4 +26,3 @@ jobs:
           pip install pytest
       - name: Run testcases
         run: pytest
-        run: pytest
